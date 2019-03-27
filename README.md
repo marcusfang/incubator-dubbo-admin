@@ -1,3 +1,7 @@
+修改application.properties文件中的zookeeper连接地址，然后直接访问http://localhost:7001，即可访问本地环境的Dubbo管理中心
+
+
+
 # dubbo-ops
 
 [![Build Status](https://travis-ci.org/apache/incubator-dubbo-ops.svg?branch=master)](https://travis-ci.org/apache/incubator-dubbo-ops) 
